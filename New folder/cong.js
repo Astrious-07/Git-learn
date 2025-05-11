@@ -1,2 +1,2 @@
 console.log(`firstcog`);
-console.log(`version1`);
+console.log(`version2`);
